@@ -1,0 +1,12 @@
+Build a NodeJS backend server following MVC pattern: 
+1. Initial a Node project (entry point is app.js, author is your name) and install
+express 
+2. Add app.js file to create a backend server, port number is 4231 
+3. Download the user data file and save the data into the user.js in models
+folder
+4. Add one endpoint to userRoute.js in routes folder for get request to /user 
+5. Add one function in userController.js in controllers folder. When receive the
+get request to /user, response all users.
+Zip your code and submit the zip file
+
+
